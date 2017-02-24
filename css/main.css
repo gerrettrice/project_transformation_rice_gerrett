@@ -87,7 +87,7 @@ nav {
 
 nav ul {
     margin: 0;
-    padding: 20px 0 0 0;
+    padding: 20px 0 20px 0;
     list-style: none;
     line-height: normal;
 }
@@ -160,9 +160,8 @@ article .entry {
 }
 
 .more {
-    display: block;
     width: 88px;
-    padding: 5px 5px;
+    padding: 12px 12px;
     margin-right: 10px;
     background: #222222;
     color: #ffffff;
@@ -171,9 +170,8 @@ article .entry {
 }
 
 .comments {
-    display: block;
     width: 88px;
-    padding: 5px 5px;
+    padding: 12px 12px;
     background: #222222;
     color: #ffffff;
     text-align: center;
