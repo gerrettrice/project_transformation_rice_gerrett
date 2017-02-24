@@ -281,7 +281,7 @@ article .entry {
     text-decoration: underline;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 825px) {
 
     main {
         float: right;
