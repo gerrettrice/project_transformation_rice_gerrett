@@ -164,6 +164,10 @@ article .entry {
     text-align: justify;
 }
 
+.posted {
+    float: right;
+}
+
 .links {
     padding-top: 20px;
     margin-bottom: 30px;
@@ -258,9 +262,8 @@ article .entry {
 footer {
     overflow: hidden;
     background: #e8e8e8 url(../img/);
-    height: 140px;
     margin: 0 auto;
-    padding: 50px 0 15px 0;
+    padding: 50px 0 150px 0;
     font-family: 'Abel', sans-serif;
     background: #e8e8e8 url(../img/img01.jpg) repeat;
 }
