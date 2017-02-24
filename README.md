@@ -1,4 +1,4 @@
-[GitHub Repo Link](https://github.com/gerrettrice/hw_transformation_rice_gerrett)
+[GitHub Repo Link](https://github.com/gerrettrice/project_transformation_rice_gerrett)
 
 # Resources
 
